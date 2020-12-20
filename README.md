@@ -25,3 +25,23 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Steps to use this code
+
+Download the zip file or clone this project.
+
+After completing above step, run ' npm install' in order to install all the depedency of this project.
+
+Then run 'ng serve' to run this project at localhost:4200
+
+## Tools used to develop this project
+
+Technical stacks: JavaScript, TypeScript, Angular.js, HTML5, CSS3, Semantic-UI, Google-charts
+
+It is a web-based application that allows users to keep track of the number of confirmed cases, recovered cases, deaths, active cases of covid19 around the globe.
+
+Delineated front-end using Angular.js, Semantic-UI, HTML, CSS.
+
+Visualized data using Google charts
+
+Fetched data through 'https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data' repository
