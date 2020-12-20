@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Download the zip file or clone this project.
 
-After completing above step, run ' npm install' in order to install all the depedency of this project.
+After completing above step, run ' npm install' in order to install all the depedencies of this project.
 
 Then run 'ng serve' to run this project at localhost:4200
 
